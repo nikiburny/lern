@@ -1,3 +1,3 @@
 # lern
 
-my secretest secrets
+my secretest secrets `:O`
